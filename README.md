@@ -2,8 +2,12 @@
 <h6>Did this project with Afonso, Miguel, Gabriel & Teresa (https://github.com/tmanso9/transcendence)</h6>
 
 <h5>This project is about creating a website for the mighty Pong contest! Users will play Pong with others. The website provides a nice user interface, a chat, and real-time multiplayer online games!</h5>
-<p>This project boosted my web dev skills using Typescript. We styled the frontend with Vue, handled the backend using NestJs, and managed the database with PostgreSQL. Prisma made our queries smooth and straightforward..</p>
 
+Team Members:
+- https://github.com/afonsomlcarvalho
+- https://github.com/polltter
+- https://github.com/portugueseTorch
+- https://github.com/tmanso9
 
 -----
 
@@ -26,9 +30,3 @@ https://github.com/20AAP02/Ft_transcendence/blob/main/transcendence.pdf
 <h4>Grade : 100%</h4>
 
 ----
-
-Team Members:
-- https://github.com/afonsomlcarvalho
-- https://github.com/polltter
-- https://github.com/portugueseTorch
-- https://github.com/tmanso9
