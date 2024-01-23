@@ -1,5 +1,6 @@
 <h1 align="center"> Transcendence | 42 School Group Project </h1>
-<h6>Did this project with Afonso, Miguel, Gabriel & Teresa (https://github.com/tmanso9/transcendence)</h6>
+<h6>Did this project with Afonso, Miguel, Gabriel & Teresa <br>
+  Original: (https://github.com/tmanso9/transcendence)</h6>
 
 -----
 
