@@ -8,7 +8,7 @@
 
 <h4>What I learned with this project?</h4>
 - Led chat system implementation for a real-time Pong game in a collaborative team.  
-- >Focused on channels, direct messages, and user blocking within the chat.  
+- Focused on channels, direct messages, and user blocking within the chat.  
 - Strengthened knowledge of secure coding practices, including OAuth and password hashing.  
 - Collaborated closely with the team for seamless chat integration.  
 - Contributed to database management using PostgreSQL and Prisma.  
